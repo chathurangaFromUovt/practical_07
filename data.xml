@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Kamal</name>
+        <position>Software Engineer</position>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Ranjith</name>
+        <position>Project Manager</position>
+    </employee>
+</employees>
